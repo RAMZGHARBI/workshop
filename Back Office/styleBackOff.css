@@ -1,0 +1,28 @@
+ 
+    
+
+body{
+    background-color: rgb(254, 242, 242);
+    background-image:url('pic.jpeg');
+    background-size: center; 
+    background-position: left; 
+    background-repeat: no-repeat; 
+    
+}
+h1{
+    font-family:Arial, Helvetica, sans-serif;
+    color: rgba(255, 21, 122, 0.851);
+    position:relative;
+    top: 30px;
+    right: -300px;
+}
+form{
+    padding: 50px;
+    border: 3px solid rgb(240, 60, 138);
+    border-radius: 25px;
+    box-shadow: 2px 2px 10px rgb(0, 0, 0,0.1);
+    position: relative;
+    right: -300px;
+    top: 5px;
+
+}
